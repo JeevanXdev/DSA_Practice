@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanXdev/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JeevanXdev/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/JeevanXdev/DSA_Practice/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JeevanXdev/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/JeevanXdev/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanXdev/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/JeevanXdev/DSA_Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
