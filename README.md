@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JeevanXdev/DSA_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JeevanXdev/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/JeevanXdev/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JeevanXdev/DSA_Practice/tree/master/0075-sort-colors) |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JeevanXdev/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/JeevanXdev/DSA_Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
