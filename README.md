@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JeevanXdev/DSA_Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/JeevanXdev/DSA_Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 | [0035-search-insert-position](https://github.com/JeevanXdev/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/JeevanXdev/DSA_Practice/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
