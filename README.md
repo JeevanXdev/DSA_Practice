@@ -33,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/JeevanXdev/DSA_Practice/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanXdev/DSA_Practice/tree/master/0283-move-zeroes) |
 ## Math
@@ -73,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
