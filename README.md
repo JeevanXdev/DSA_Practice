@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
