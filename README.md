@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/JeevanXdev/DSA_Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/JeevanXdev/DSA_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JeevanXdev/DSA_Practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
