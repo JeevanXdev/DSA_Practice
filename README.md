@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -82,10 +83,12 @@
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
