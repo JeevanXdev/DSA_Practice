@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/JeevanXdev/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JeevanXdev/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/JeevanXdev/DSA_Practice/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/JeevanXdev/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JeevanXdev/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JeevanXdev/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/JeevanXdev/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JeevanXdev/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/JeevanXdev/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 ## String Matching
 |  |
 | ------- |
