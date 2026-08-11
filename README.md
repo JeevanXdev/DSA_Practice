@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JeevanXdev/DSA_Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JeevanXdev/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JeevanXdev/DSA_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanXdev/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JeevanXdev/DSA_Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/JeevanXdev/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JeevanXdev/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -74,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JeevanXdev/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanXdev/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
@@ -103,6 +106,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
@@ -134,4 +138,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
