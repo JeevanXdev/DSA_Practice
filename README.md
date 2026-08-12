@@ -48,6 +48,7 @@
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanXdev/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0206-reverse-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
