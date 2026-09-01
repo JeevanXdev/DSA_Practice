@@ -59,6 +59,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/JeevanXdev/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/JeevanXdev/DSA_Practice/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JeevanXdev/DSA_Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/JeevanXdev/DSA_Practice/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/JeevanXdev/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/JeevanXdev/DSA_Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
