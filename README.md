@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/JeevanXdev/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JeevanXdev/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/JeevanXdev/DSA_Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JeevanXdev/DSA_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanXdev/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JeevanXdev/DSA_Practice/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JeevanXdev/DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/JeevanXdev/DSA_Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JeevanXdev/DSA_Practice/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
