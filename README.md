@@ -53,6 +53,7 @@
 | [0189-rotate-array](https://github.com/JeevanXdev/DSA_Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/JeevanXdev/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/JeevanXdev/DSA_Practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -92,6 +93,7 @@
 | [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JeevanXdev/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanXdev/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/JeevanXdev/DSA_Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JeevanXdev/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/JeevanXdev/DSA_Practice/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
