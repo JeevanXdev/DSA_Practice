@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JeevanXdev/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/JeevanXdev/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/JeevanXdev/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/JeevanXdev/DSA_Practice/tree/master/0205-isomorphic-strings) |
@@ -127,6 +128,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/JeevanXdev/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JeevanXdev/DSA_Practice/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JeevanXdev/DSA_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
